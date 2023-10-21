@@ -683,3 +683,14 @@ header{
    
 
 }
+.downsite_img {
+   
+    /* do to cua hinh anh */
+    width: 80%;
+    /* khoang cach voi ben tren */
+    top: 12%;
+    /* khoang cach voi le ben phai */
+    right: 10%;
+   
+
+}
