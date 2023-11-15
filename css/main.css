@@ -135,7 +135,7 @@ header{
 /* chinh sua nut contact */
 .navbar_btn{
     font-size: 1rem;
-    background-color: var(--Green);
+    background-color: var(--Red);
     margin-left: 45px;
 
 }
